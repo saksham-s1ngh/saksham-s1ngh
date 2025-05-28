@@ -5,12 +5,11 @@
 `Experimental generalist. Terminal tinkerer. Professional overthinker.`
 
 ---
-<details>
-<summary>🌀 Surreal Experience (click to expand)</summary> 
+## Experience
 Independent consultant for distributed entropy normalization and backend lullaby orchestration under the Department of Invisible Alerts, specializing in non-blocking burnout mitigation and recursive-state context switching. Former transitional systems theorist at the Informal Consortium of Post-Internship Kinetics, known for evolving from intern to full-stack fog-of-war analyst without disrupting the legacy abstraction continuum. Served as embedded field researcher at the Recursive Retail Cognition Institute, contributing 15 months of empirical shelving and genre-fluid recommendation engineering within analog discovery interfaces. Acted as chair of dashboard dramaturgy at the Center for Critical Non-Observability, authoring unreadable alert schemas and cultivating silent failure narratives with a 0.03% false sense of security rating. Most recently held the role of backend approximation architect at the Guild of Provisional Uptime, preserving the aesthetic symmetry of semi-functional systems via proactive log meditation and strategic postponement ceremonies.
-</details>
 
 
+---
 ### 🧭 Philosophy
 I like code that:
 - Breaks cleanly
