@@ -12,6 +12,6 @@ Most recently held the role of backend approximation architect at the Guild of P
 ---
 
 ### 📫 Reach me 
-- 🧵 [Blog / Notes?](#) *(maybe coming soon... maybe not)*
+- 🧵 [Blog / Notes?](#) 
 > “I have not failed. I’ve just found 10,000 ways that don’t compile.” – some programmer, probably
 
