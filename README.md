@@ -1,5 +1,5 @@
 
-### Hi there, I'm Saksham 👋  
+<!-- ### Hi there, I'm Saksham 👋  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=%2347F731&lines=Enthusiast+of+open-ended+questions;Engineer+of+unfinished+projects;Walking+edge+case)](https://git.io/typing-svg)
 
 ## Experience
